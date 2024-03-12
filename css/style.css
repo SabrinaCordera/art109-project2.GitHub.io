@@ -1,0 +1,55 @@
+
+/*  hidden paragraphs */
+.hidden {
+    color: white;
+}
+
+
+/*  dad paragraphs */
+.jerome {
+    line-height: 50px;
+}
+
+#jerome-hidden {
+    line-height: 50px;
+    position: absolute;
+    top: 190px;
+    left: 10px;
+}
+
+/*  mom paragraph */
+.shirley {
+    line-height: 50px;
+}
+
+#shirly-hidden {
+    line-height: 50px;
+    position: absolute;
+    top: 310px;
+    left: 10px;
+}
+
+/*  son paragraph */
+.jonny {
+    line-height: 50px;
+}
+
+#jonny-hidden {
+    line-height: 50px;
+    position: absolute;
+    top: 420px;
+    left: 10px;
+}
+
+
+/*  daughter paragraph */
+.sara {
+    line-height: 50px;
+}
+
+#sara-hidden {
+    line-height: 50px;
+    position: absolute;
+    top: 540px;
+    left: 10px;
+}
